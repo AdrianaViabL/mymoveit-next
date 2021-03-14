@@ -117,8 +117,9 @@ export function ChallengesProvider({ children, ...rest}: ChallengesProviderProps
                 userName,
                  }}>
         { children }
-        /*Provider permite que toda a aplicação(por estar declarado dentro do _app) tenha visao do que esta dentro do seu contexto*/
+        
         {isLevelUpModalOpen && <LevelUpModal />}
     </ChallengeContext.Provider>
     )
 }
+/*Provider permite que toda a aplicação(por estar declarado dentro do _app) tenha visao do que esta dentro do seu contexto*/
