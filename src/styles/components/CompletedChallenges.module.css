@@ -1,0 +1,17 @@
+.CompletChallengContainer{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 3.5rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #d7d8da;
+    font-weight: 500;
+}
+
+.CompletChallengContainer span:first-child{/*pegando apenas o primeiro span*/
+    font-size: 1.25rem;
+}
+
+.CompletChallengContainer span:last-child{/*pegando apenas o ultimo span*/
+    font-size: 1.5rem;
+}
