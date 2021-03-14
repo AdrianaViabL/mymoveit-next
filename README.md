@@ -1,6 +1,8 @@
 # mymoveit-next
 Projeto desenvolvido na NLW rocketseat
 
+O nome do usuario ainda esta fixo '-'
+
 Um joguinho com exercícios a serem feitos a cada 25 minutos, como alongamentos, exercicios de 
 relaxamento para os olhos, etc.. Ao serem finalizado é contabilizado pontos de acordo com cada atividade 
 que irão fazer voce upar seu 'nivel' com cada atividade cumprida. Os dados do seu avanço são gravados 
